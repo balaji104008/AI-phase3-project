@@ -1,0 +1,2 @@
+Output:
+  Root mean squared error: 20000
